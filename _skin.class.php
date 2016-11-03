@@ -6,7 +6,7 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  *
  * ATTENTION: if you make a new skin you have to change the class name below accordingly
  */
-class b2evo_ru_Skin extends Skin
+class b2evoru_Skin extends Skin
 {
 	var $version = '1.1.1';
 

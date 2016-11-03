@@ -8,6 +8,7 @@ Link to skin: http://skins.b2evolution.net/b2evo-ru-skin
 
 #### v1.1.1
 
+- Skin name fix
 - New skinshot
 
 <br/>
